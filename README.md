@@ -8,17 +8,14 @@ How many of the entered numbers are powers of 2.
 How many of the entered numbers have digits, in their decimal representation, forming an ascending sequence.
 Which number is the largest and which is the smallest.
 
-2.
-Write a program that prints a pattern of asterisks to the screen in a diamond shape (Implement this using recursion.)
+2.Write a program that prints a pattern of asterisks to the screen in a diamond shape (Implement this using recursion.)
 
-3.
-Write a program that functions similarly to the "Diamond for Beginners" program but accepts the desired height of the diamond as input from the user.
+3.Write a program that functions similarly to the "Diamond for Beginners" program but accepts the desired height of the diamond as input from the user.
 (Notify the user of invalid input.)
 In the case of an even input, consider adding an extra row in the middle or adding/removing 1 from the input.
-4.
-String Analysis:
-Write a program that takes an 8-character string as input (e.g., "babcttcbab") and provides the following information:
 
+4.String Analysis:
+Write a program that takes an 8-character string as input (e.g., "babcttcbab") and provides the following information:
 Whether the string is a palindrome (implement using recursion).
 If it is a number - whether it is divisible by 5 without a remainder.
 If it is an English string - the count of lowercase letters it contains.
